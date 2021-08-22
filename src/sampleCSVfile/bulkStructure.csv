@@ -1,0 +1,4 @@
+applicantName,bankName,phone,product,referenceNumber,verificationType,createdBy,lastModifiedBy,BV_address,BV_area,BV_caseStatus,BV_officeName,BV_assignTo,RV_address,RV_area,RV_caseStatus,RV_officeName,RV_assignTo
+maheswarreddy,SBI,9876543212,HOME,h001,BUSINESS,admin,admin,1-45 SAI NAGAR,sai nagar,ASSIGNED,mahesh,user1,,,,,
+yasar,SBI,9876543212,product,h001,RESIDENCE,admin,admin,,,,,,1-45 SAI NAGAR,sai nagar,ASSIGNED,mahesh,user1
+suhail,ICIC,9876543211,Land,L001,BOTH,backend,backend,1-45 SAI NAGAR,sai nagar,ASSIGNED,mahesh,user1,1-45 SAI NAGAR,ss nagar,ASSIGNED,mahesh,user1
